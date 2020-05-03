@@ -1,0 +1,34 @@
+/* add your CSS here */
+body{
+  font-size: 15px ;
+  font-family: sans-serif;
+  color: rgb(0,0,0);
+  background : rgb(255,255,255)  ;
+}
+
+.container{
+    width: 320px;
+    border: 1px solid #C8C8C8;
+    box-shadow: 10px 5px 5px rgb(200,200,200);
+}
+
+.content{
+  width: 300px;
+  margin: 10px;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.text{
+    border: 1px solid #C8C8C8;
+    margin: 10px; }
+
+.info{
+        margin: 10px; }
+
+.detail{ 	list-style: none;
+	text-indent:-40px;}
+
+li span { font-weight: bold;}
